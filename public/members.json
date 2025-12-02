@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Arnesh Chakroborty",
+    "designation": "Co-Founder & Creative Producer",
+    "img": "/arnesh.jpg",
+    "desc": "The broke co-founder chasing big dreams with zero budget—ambitious, chaotic, and always in \"broke jail.\"",
+    "socials": {
+      "instagram": "https://www.instagram.com/arnesh.chak?igsh=d2RoczYxNmxieA=="
+    }
+  },
+  {
+    "name": "Prajawal Pradipt Behera",
+    "designation": "Co-Founder & Lead Designer",
+    "img": "/prajawal.jpg",
+    "desc": "The lazy genius who procrastinates endlessly but delivers pure design brilliance at the last minute.",
+    "socials": {
+      "instagram": "https://www.instagram.com/theconcept_man?igsh=MXdnZmY5ZGV6b2dwcw=="
+    }
+  },
+  {
+    "name": "Ayush Tekriwal",
+    "designation": "Community & Culture Member",
+    "img": "/ayush.jpg",
+    "desc": "Leads everything with calmness and clarity.",
+    "socials": {
+    }
+  },
+  {
+    "name": "Pushkar Raj Singh",
+    "designation": "Designer & Video Editor",
+    "img": "/pushkar.jpg",
+    "desc": "UX designer and video editor specializing in YouTube thumbnails and Instagram posts.",
+    "socials": {
+      "instagram": "https://www.instagram.com/_pushkar.raj_s/"
+    }
+  },
+  {
+    "name": "Muskan Kumari",
+    "designation": "Frontend Developer (Enthusiast)",
+    "img": "/muskan.jpg",
+    "desc": "Second-year CSE student passionate about full-stack web development with experience in HTML, CSS, JS, Bootstrap, React, Node.js, and Express.js.",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/muskan-kumari-952262319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    }
+  },
+  {
+    "name": "Jagadish Mohanty",
+    "designation": "Backend Web Developer",
+    "img": "/jagdish.jpg",
+    "desc": "Backend developer specializing in API development, databases, authentication, and caching systems.",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/jagthefriend",
+      "instagram": "https://www.instagram.com/jagthefriend12/"
+    }
+  }
+]

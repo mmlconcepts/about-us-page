@@ -1,0 +1,21 @@
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body { margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: #DAA520;
+  /* muted golden for general text */
+  background: #0f0c07;
+  /* soft dark sandy black */
+  overflow-x: hidden;
+}
+
+.app {
+  min-height: 90vh;
+  position: relative;
+}
+

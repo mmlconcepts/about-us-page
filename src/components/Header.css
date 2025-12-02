@@ -1,0 +1,16 @@
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+
+.logo-text {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #DAA520;
+  
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
